@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ImageView</string>
+    <string name="greeting">Favority photo album is greeting you!</string>
+    <string name="lets_begin">Lets begin!</string>
+    <string name="next_photo">Next photo</string>
+    <string name="goodbye">Thanks for watching! Goodbye!</string>
+    <string name="exit">Exit</string>
+</resources>
